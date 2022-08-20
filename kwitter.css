@@ -1,0 +1,31 @@
+.login_div
+{
+	background-color: crimson;
+    float: none;
+    border-radius: 15px;
+}
+
+#login_button
+{
+	width: 80%;
+    border-radius: 15px;
+}
+
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+body
+{
+    background-color: rgb(138, 43, 226);
+}
+h1, h2, h3, input, label
+{
+    font-family: 'Times New Roman', Times, serif
+}
